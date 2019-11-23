@@ -1,0 +1,15 @@
+{
+  "name": "dunstonprogram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dunstonMain.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node dunstonMain.js"
+  },
+  "author": "rivu",
+  "license": "ISC"
+}
